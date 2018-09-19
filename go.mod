@@ -1,1 +1,1 @@
-module github.com/ngratin/testes
+module github.com/ngratin/testes/v2
