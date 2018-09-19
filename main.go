@@ -2,6 +2,6 @@ package testes
 
 import "fmt"
 
-func Hi(name string) string {
-	return fmt.Sprintf("Hi, master %s", name)
+func Hi(name, lang string) string {
+	return fmt.Sprintf("Hi, master %s %s", lang, name)
 }
